@@ -111,7 +111,7 @@ console.log(saludar());
 
 // const saludar =()=>{
 //     return `Hola mundo`;
-}
+
 const suma =()=> 1+3;
 const parametros_1 = mensaje => mensaje;
 const condicio = num1 => num1>=3;
