@@ -73,12 +73,12 @@ const sumarDeUnoAUno = (function(){
     };
 })();
 
-console.log(sumarDeUnoAUno(`Miguel`));
+console.log(sumarDeUnoAUno(`Rafael`));
 console.log(sumarDeUnoAUno(null));
 console.log(sumarDeUnoAUno());
 console.log(sumarDeUnoAUno());
 console.log(sumarDeUnoAUno());
-console.log(sumarDeUnoAUno(`Andrea`));
+console.log(sumarDeUnoAUno(`Angarita`));
 console.log(sumarDeUnoAUno(null));
 console.log(sumarDeUnoAUno());
 console.log(sumarDeUnoAUno());
@@ -93,7 +93,7 @@ const data = (()=>{
         : 
             mensaje;
 })();
-console.log(data('miguel'));
+console.log(data('Rafael'));
 console.log(data(null));
 console.log(data(undefined));
 console.log(data());
