@@ -103,7 +103,7 @@ console.log(data());
 
 
 // Funciones Flecha
-function saludar(){
+function saludar(){ 
     return `Hola mundo`;
 }
 console.log(saludar());
