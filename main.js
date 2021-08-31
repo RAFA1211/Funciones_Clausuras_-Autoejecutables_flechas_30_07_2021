@@ -109,8 +109,8 @@ function saludar(){
 console.log(saludar());
 
 
-const saludar =()=>{
-    return `Hola mundo`;
+// const saludar =()=>{
+//     return `Hola mundo`;
 }
 const suma =()=> 1+3;
 const parametros_1 = mensaje => mensaje;
